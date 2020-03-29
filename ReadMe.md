@@ -5,3 +5,5 @@
     Basic usage, include
     - Class
     - Print `enum`, `[Flags]` options for enum
+1. Eg02_Generic
+    泛型编程，抗变与协变
